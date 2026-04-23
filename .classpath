@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-21">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/Users/nicol/Desktop/Spring jars/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/nicol/Desktop/Spring jars/mysql-connector-java-5.1.20.jar"/>
+	<classpathentry kind="lib" path="C:/Users/nicol/Desktop/Spring jars/spring-aop-4.2.2.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/nicol/Desktop/Spring jars/spring-beans-4.2.2.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/nicol/Desktop/Spring jars/spring-context-4.2.2.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/nicol/Desktop/Spring jars/spring-core-4.2.2.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/nicol/Desktop/Spring jars/spring-expression-4.2.2.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/nicol/Desktop/Spring jars/spring-jdbc-4.2.2.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/nicol/Desktop/Spring jars/spring-tx-4.2.2.RELEASE.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
